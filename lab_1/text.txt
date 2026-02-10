@@ -1,0 +1,28 @@
+Тест 1 – Два катети
+triangle(3, "leg", 4, "leg");
+
+Тест 2 – Катет + гіпотенуза
+triangle(5, "leg", 13, "hypotenuse");
+
+Тест 3 – Гіпотенуза + один гострий кут (angle)
+triangle(10, "hypotenuse", 30, "angle");
+
+Тест 4 – Катет + прилеглий кут (adjacent angle)
+triangle(8, "leg", 60, "adjacent angle");
+
+Тест 5 – Катет + протилежний кут (opposite angle)
+triangle(7, "leg", 40, "opposite angle");
+
+failed
+
+// Тест 6 – негативне значення
+triangle(-3, "leg", 4, "leg");             
+
+// Тест 7 – кут 95° (не гострий)
+triangle(10, "hypotenuse", 95, "angle");   
+
+// Тест 8 – катет більший за гіпотенузу
+triangle(15, "leg", 10, "hypotenuse");   
+
+// Тест 9 – неправильний тип (описка)
+triangle(5, "legs", 12, "hypotenuse");
