@@ -1,0 +1,37 @@
+{
+    "category": "Clothing",
+    "items": [
+        {
+            "id": 1,
+            "name": "Jacket",
+            "shortname": "jacket",
+            "description": "Warm winter jacket.",
+            "price": 89.99,
+            "image": "https://placeholdit.com/200x500/4546e5/ffffff"
+        },
+        {
+            "id": 2,
+            "name": "T-Shirt",
+            "shortname": "tshirt",
+            "description": "Comfortable cotton t-shirt.",
+            "price": 19.99,
+            "image": "https://placeholdit.com/200x500/e64592/ffffff"
+        },
+        {
+            "id": 3,
+            "name": "Jeans",
+            "shortname": "jeans",
+            "description": "Stylish denim jeans.",
+            "price": 59.99,
+            "image": "https://placeholdit.com/200x500/79fd33/ffffff"
+        },
+        {
+            "id": 4,
+            "name": "Sneakers",
+            "shortname": "sneakers",
+            "description": "Trendy athletic shoes.",
+            "price": 79.99,
+            "image": "https://placeholdit.com/200x500/fc5d32/ffffff"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "category": "Books",
+    "items": [
+        {
+            "id": 1,
+            "name": "Novel",
+            "shortname": "novel",
+            "description": "Bestselling fiction novel.",
+            "price": 14.99,
+            "image": "https://placeholdit.com/200x500/ffffff/000000?text=Novel"
+        },
+        {
+            "id": 2,
+            "name": "Textbook",
+            "shortname": "textbook",
+            "description": "Comprehensive academic textbook.",
+            "price": 89.99,
+            "image": "https://placeholdit.com/200x500/00ff16/ffffff?text=English"
+        },
+        {
+            "id": 3,
+            "name": "Biography",
+            "shortname": "biography",
+            "description": "Inspiring life story.",
+            "price": 24.99,
+            "image": "https://placeholdit.com/200x500/401313/ffffff?text=Biography"
+        },
+        {
+            "id": 4,
+            "name": "Cookbook",
+            "shortname": "cookbook",
+            "description": "Delicious recipes for all.",
+            "price": 29.99,
+            "image": "https://placeholdit.com/200x500/2daaff/004384?text=Cookbook"
+        }
+    ]
+}
